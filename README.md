@@ -728,5 +728,8 @@ contact.html
 ### Contact Page:
 ![CONTACT](./images/contact.png)
 
+### HTML Validation:
+![VALID](./images/validh.png)
+
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
